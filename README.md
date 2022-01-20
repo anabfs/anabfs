@@ -1,8 +1,5 @@
 ### Olá! Eu sou Ana 👋
 
-- 🌱 Estou estudando front-end
-- 😄 Pronomes: ela/dela
-
 <div align="center">
   <a href="https://github.com/anabfs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabfs&show_icons=true&theme=dracula"/>
