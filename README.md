@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/anabfs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anabfs&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabfs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=anabfs&show_icons=true&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anabfs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="75" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
